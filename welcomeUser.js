@@ -1,2 +1,2 @@
 let Usname='John';
-console.log {'bienvenue'+ Usname +'|'};
+console.log ('bienvenue'+ Usname +'|');
